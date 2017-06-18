@@ -1,0 +1,4 @@
+Building coinsdaddy
+See doc/readme-qt.rst for instructions on building coinsdaddy QT.
+
+See doc/build-*.txt for instructions on building coinsdaddyd.
